@@ -1,5 +1,5 @@
 # About Me
-🔭 Working on some personal IA projects<br>👯 Open to fun, meaningful IA collabs.<br>🤝 Could use help with taming unpredictable models.<br>🌱 Learning how search meets machine learning.<br>💬 Ask me about clustering, profiling, or data mysteries.<br>⚡ Fun fact I once explained cosine similarity with a love triangle — it made sense.
+🔭 Working on some personal IA projects<br>👯 Open to fun, meaningful IA collabs.<br>🤝 Could use help with taming unpredictable models.<br>🌱 Learning how search meets machine learning.<br>💬 Ask me about clustering, profiling, or data mysteries.
 
 
 ## Socials
