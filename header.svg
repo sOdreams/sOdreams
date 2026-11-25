@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Momin Miah, AI Engineer">
+<style>
+.mm-name{fill:#1F2328}
+.mm-sub{fill:#57606A}
+@media (prefers-color-scheme:dark){.mm-name{fill:#E6EDF3}.mm-sub{fill:#8B949E}}
+.mm-scan{animation:mmscan 3.2s ease-in-out infinite alternate}
+.mm-br{animation:mmpulse 3.2s ease-in-out infinite alternate}
+@keyframes mmscan{from{transform:translateY(0)}to{transform:translateY(78px)}}
+@keyframes mmpulse{from{opacity:1}to{opacity:.55}}
+@media (prefers-reduced-motion:reduce){.mm-scan,.mm-br{animation:none}}
+</style>
+<rect x="232" y="58" width="436" height="80" fill="none" stroke="#3FB950" stroke-opacity=".28" stroke-width="1"/>
+<path class="mm-br" d="M232,74V58H248 M652,58H668V74 M668,122V138H652 M248,138H232V122" fill="none" stroke="#3FB950" stroke-width="2.5" stroke-linecap="square"/>
+<rect class="mm-scan" x="233" y="58" width="434" height="2" fill="#3FB950" opacity=".45"/>
+<rect x="232" y="36" width="132" height="22" fill="#3FB950"/>
+<text x="240" y="51" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#0D1117" textLength="116" lengthAdjust="spacingAndGlyphs">ai_engineer 0.98</text>
+<text class="mm-name" x="450.0" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="600" textLength="372" lengthAdjust="spacingAndGlyphs">Momin Miah</text>
+<text class="mm-sub" x="450.0" y="182" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" textLength="428" lengthAdjust="spacingAndGlyphs">AI engineering · Computer vision · MLOps · Barcelona</text>
+</svg>
