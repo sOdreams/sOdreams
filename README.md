@@ -1,14 +1,21 @@
-# About Me
-Working on some personal IA projects<br> Open to fun, meaningful IA collabs.<br> Learning how search meets machine learning.
+<div align="center">
+  <img src="header.svg" width="100%" alt="Momin Miah, AI Engineer">
 
+  <a href="https://momin.maten.me">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/momin-miah">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://discord.gg/dreams7899">Discord</a>
+</div>
 
-## Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dreams7899) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/momin-miah)[![Portafolio](https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://momin.maten.me)
+<br>
 
-# Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+I like building AI that leaves the notebook and does something useful: computer vision, search and retrieval, and models that hold up in production. Lately I'm exploring where search meets machine learning, and how AI can work across languages, not just in English.
 
+Open to fun, meaningful AI collaborations.
 
-[![](https://visitcount.itsvg.in/api?id=sOdreams&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="stack.svg" width="100%" alt="Python, scikit-learn, Computer vision, MLOps, RAG, Embeddings, Production ML, C, C++, Java">
+
+<br>
+
+<p align="center">
+  <img src="languages.svg" width="50%" alt="Languages: Catalan, Spanish, English, Urdu, Bangla, Hindi, Arabic">
+</p>
